@@ -169,6 +169,9 @@ html {
     background-color: black;
 }
 
+
+/* lo que voy a cambiar */
+
 @media only screen and (max-width: 750px) {
     .flex:not(#header) {
         display: block;
